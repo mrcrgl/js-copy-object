@@ -7,11 +7,11 @@
   },
   "description": "Copy, clone and merge, full or partially, javascript objects.",
   "engines": {
-    "node": ">=0.6 <=0.12"
+    "node": ">=0.10 <=0.12"
   },
   "main": "lib/copy-object.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "./node_modues/.bin/grunt test"
   },
   "repository": {
     "type": "git",

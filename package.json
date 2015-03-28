@@ -24,6 +24,7 @@
     "chai": "2.x",
     "mocha": "2.x",
     "grunt": "0.x",
+    "grunt-cli": "0.x",
     "grunt-contrib-jshint": "0.x",
     "grunt-mocha-test": "0.x",
     "jshint-stylish": "1.x"

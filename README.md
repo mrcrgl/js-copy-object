@@ -1,4 +1,4 @@
-# copy-object
+# copy-object [![Build Status](https://secure.travis-ci.org/mrcrgl/js-copy-object.png)](http://travis-ci.org/mrcrgl/js-copy-object)
 ---------------
 
 Copy, clone and merge, full or partially, javascript objects. 

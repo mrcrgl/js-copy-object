@@ -11,7 +11,7 @@
   },
   "main": "lib/copy-object.js",
   "scripts": {
-    "test": "./node_modues/.bin/grunt test"
+    "test": "./node_modules/.bin/grunt test"
   },
   "repository": {
     "type": "git",
